@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@500&display=swap');
+
+.navbar{
+    width: 40%;
+    margin: auto;
+    padding: 35px 0;
+    float: right;
+    justify-content: space-between;
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Ysabeau', sans-serif;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
